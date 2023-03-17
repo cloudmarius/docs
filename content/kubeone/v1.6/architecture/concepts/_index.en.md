@@ -108,7 +108,7 @@ kubeone config print --full
 [Cluster API][cluster-api] implementation that takes care of:
 
 * creating and managing instances for worker nodes
-* joining worker nodes a cluster
+* joining worker nodes to a cluster
 * reconciling worker nodes and ensuring they are healthy
 
 You can find more details about machine-controller in the
